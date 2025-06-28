@@ -1,0 +1,36 @@
+Some popular Regression algorithms are given below:
+• Simple Linear Regression Algorithm
+• Multivariate Regression Algorithm
+• Decision Tree Algorithm
+• Lasso Regression
+Advantages and Disadvantages of Supervised Learning:
+Advantages:
+• Since supervised learning work with the labelled dataset so we can have an exact idea about the
+classes of objects.
+Categories of Supervised Machine Learning:
+• Supervised machine learning can be classified into two types ofproblems, which are given below:
+• Classification
+• Regression
+Classification: Classification algorithms are used to solve the classification problems in which the output
+variable is categorical, such as "Yes" or No, Male or Female, Red or Blue, etc.
+Some popular classification algorithms are given below:
+• Random Forest Algorithm
+• Decision Tree Algorithm
+• Logistic Regression Algorithm
+• Support Vector Machine Algorithm
+Regression:
+• Regression algorithms are used to solve regression problems in which there is a linear relationship
+between input and output variables.
+Some of the popular clustering algorithms are given below:
+• K-Means Clustering algorithm
+• Mean-shift algorithm
+• DBSCAN Algorithm
+• Principal Component Analysis
+• Independent Component Analysis
+2) Association:
+• Association rule learning is an unsupervised learning technique, which finds interesting relations
+among variables within a large dataset.
+• Itmeans, inunsupervised machine learning, the machine is trained using the unlabeled dataset, and
+the machine predicts the output w
+• The main aim of the unsupervised learning algorithm is to group or categories the unsorted
+dataset according to the similarities, patterns, and differences.
